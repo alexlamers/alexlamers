@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Alex.
+
+I'm an environmental scientist, 
+
+- Test
+- Test
 
 
 I'm an environmental scientist, community program organizer, etc. 
