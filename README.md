@@ -1,16 +1,9 @@
 ## Hello, I'm Alex.
 
-I'm an environmental scientist, 
-
-- Test
-- Test
-
-
 I'm an environmental scientist, community program organizer, etc. 
 
 I've done research in _____.
 <!--
-**alexlamers/alexlamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
