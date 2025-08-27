@@ -1,18 +1,18 @@
-## Hello, I'm Alex.
+## Hi, I’m Alex 👋
 
-I'm an environmental scientist, community program organizer, etc. 
+I’m an environmental scientist and community organizer passionate about building equitable, resilient systems. My work blends **co-operative leadership**, **sustainable programming**, and **data-driven problem-solving** to create meaningful change.
 
-I've done research in _____.
-<!--
+### Things that excite me:
+- 🤝 **Co-operative community building** – creating systems where people share resources and shape decisions collectively.  
+- 🚲 **Transportation access** – expanding safe, affordable, and sustainable mobility options for underserved communities.  
+- 🌱 **Sustainable programming** – building initiatives that deliver impact without burning out people or resources.  
+- ⚖️ **Environmental justice** – centering equity in climate resilience and adaptation planning.  
 
-Here are some ideas to get you started:
+### Current Focus
+- Leading Chicago’s **Bike Chicago program**, the city’s largest municipal bike distribution initiative.  
+- Exploring **data visualization and analytics** for climate resilience projects.  
+- Supporting **co-operative housing and energy-efficiency efforts** in Chicago.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let’s Connect
+- **Email:** lamersa@gmail.com  
+- **LinkedIn:** [linkedin.com/in/alexander-lamers](https://www.linkedin.com/in/alexander-lamers)  
