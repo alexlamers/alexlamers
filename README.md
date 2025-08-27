@@ -9,7 +9,6 @@ I’m an environmental scientist and community organizer passionate about buildi
 - ⚖️ **Environmental justice** – centering equity in climate resilience and adaptation planning.  
 
 ### Current Focus
-- Leading Chicago’s **Bike Chicago program**, the city’s largest municipal bike distribution initiative.  
 - Exploring **data visualization and analytics** for climate resilience projects.  
 - Supporting **co-operative housing and energy-efficiency efforts** in Chicago.
 
