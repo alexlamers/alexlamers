@@ -1,6 +1,6 @@
 ## Hi, I’m Alex 👋
 
-I’m an environmental scientist and community organizer passionate about building equitable, resilient systems. My work blends **co-operative leadership**, **sustainable programming**, and **data-driven problem-solving** to create meaningful change.
+I’m an environmental scientist passionate about building equitable, resilient systems. My work blends **co-operative leadership**, **sustainable programming**, and **data-driven problem-solving** to create meaningful change.
 
 ### Things that excite me:
 - 🤝 **Co-operative community building** – creating systems where people share resources and shape decisions collectively.  
